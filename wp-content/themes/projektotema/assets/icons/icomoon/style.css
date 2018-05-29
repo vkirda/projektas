@@ -1,0 +1,50 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?hyjxb7');
+  src:  url('fonts/icomoon.eot?hyjxb7#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?hyjxb7') format('truetype'),
+    url('fonts/icomoon.woff?hyjxb7') format('woff'),
+    url('fonts/icomoon.svg?hyjxb7#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-keyboard_arrow_right:before {
+  content: "\e906";
+}
+.icon-keyboard_arrow_left:before {
+  content: "\e907";
+}
+.icon-roof:before {
+  content: "\e900";
+}
+.icon-roof1:before {
+  content: "\e901";
+}
+.icon-shield:before {
+  content: "\e902";
+}
+.icon-sketch:before {
+  content: "\e903";
+}
+.icon-waste-pipe:before {
+  content: "\e904";
+}
+.icon-water-slide:before {
+  content: "\e905";
+}
